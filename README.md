@@ -17,7 +17,7 @@ Follow these steps to set up the project for local development:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/arunimabarik75/LL-Parser.git
+   git clone https://github.com/dhruvbytecode/LL-Parser.git
    ```
 2. Create a virtual environment inside the cloned repository:
    ```bash
